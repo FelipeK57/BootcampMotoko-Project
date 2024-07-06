@@ -1,4 +1,7 @@
 # `project`
+# `Título del Proyecto: Aplicación de Pedidos y Entregas de Comida en Motoko`
+
+# `Descripción`: Este proyecto consiste en una aplicación de pedidos y entregas de comida desarrollada en el lenguaje de programación Motoko. La aplicación permite registrar usuarios con diferentes roles (cliente, restaurante, domiciliario), crear menús de restaurantes, gestionar carritos de compras, procesar pedidos y realizar el seguimiento de entregas. Utiliza estructuras de datos para almacenar y manejar la información, y gestiona el flujo completo desde la creación del pedido hasta la confirmación de la entrega.
 
 Welcome to your new `project` project and to the Internet Computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
